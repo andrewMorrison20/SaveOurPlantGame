@@ -1,0 +1,13 @@
+name,type,field,rent,price,minDev,majDev
+The Green Beginning,START,N/a,0,0,0,0
+Solar Power,FIELD,Renewable_Energy_Initiatives,15,100,30,90
+Wind Power,FIELD,Renewable_Energy_Initiatives,19,90,20,80
+Hydro Power,FIELD,Renewable_Energy_Initiatives,17,95,25,75
+Organic Farming,FIELD,Sustainable_Agriculture,10,50,45,65
+Agroforestry,FIELD,Sustainable_Agriculture,12,60,55,70
+Carbon Neutral,NEUTRAL,N/a,0,0,0,0
+Recycling,FIELD,Waste_Management,27,130,65,100
+Composting,FIELD,Waste_Management,21,120,55,95
+Circular Economy,FIELD,Waste_Management,22,125,70,107
+Carbon Capture & Storage,FIELD,Climate_Change,40,250,100,160
+Climate Resilience Planning,FIELD,Climate_Change,45,275,120,180
